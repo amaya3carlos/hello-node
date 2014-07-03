@@ -1,0 +1,19 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "amaya",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaya3carlos/hello-node.git"
+  },
+  "keywords": [
+    "hello",
+    "heroku"
+  ],
+  "author": "amaya3carlos",
+  "license": "BSD"
+}
